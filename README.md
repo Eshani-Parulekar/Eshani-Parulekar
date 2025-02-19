@@ -3,8 +3,7 @@
 
 <h3 align="center"> ~An Ode to the Struggles of Coding~  </h3>
 
-<p align="center"> 
-Oh, sweet torment of blinking cursors,  
+<p align="center"> Oh, sweet torment of blinking cursors,  
 A dance of logic, a lover’s curse.  
 Lines of code like whispered prose,  
 Entwined in loops where reason flows.  
