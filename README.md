@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Eshani Parulekar</h1>
 <h3 align="center">A passionate software developer studying in Plaksha University. I am currently working in AI/ML, cybersecurity and have previous experience working in Webdev, DevOps (Kafka, etc) and database integration and management. Excited to pull all nighters and fix them bugs!!! </h3>
 
-<h3 align="center"> **An Ode to the Struggles of Coding**  </h3>
+<h3 align="center"> ~An Ode to the Struggles of Coding~  </h3>
 
 <p align="center"> 
 Oh, sweet torment of blinking cursors,  
