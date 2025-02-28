@@ -1,29 +1,4 @@
-<h1 align="center">Hey, I'm Eshani Parulekar</h1>
-<h3 align="center">A passionate software developer studying in Plaksha University. I am currently working in AI/ML, cybersecurity and have previous experience working in Webdev, DevOps (Kafka, etc) and database integration and management. Excited to pull all nighters and fix them bugs!!! </h3>
-
-<h3 align="center"> ~An Ode to the Struggles of Coding~  </h3>
-
-<p align="center"> 
-
-Oh, sweet torment of blinking cursors,  
-A dance of logic, a lover’s curse.  
-Lines of code like whispered prose,  
-Entwined in loops where reason flows.  
-
-A bug, a flaw, a cruel charade,  
-Yet beauty lies where errors fade.  
-The compiler scoffs, the tests betray,  
-Yet passion bids me—still, I stay.  
-
-Through midnight’s hush, the keys still sing,  
-A symphony of debugging.  
-For every crash, a lesson earned,  
-In fragments bright, the world is turned.  
-
-Oh, endless quest for perfect grace,  
-In syntax wrought, a poet’s place.  
-For love is found in tangled schemes,  
-And algorithms born of dreams.   </p>
+:O
 
 
 <h3 align="left">Connect with me:</h3>
